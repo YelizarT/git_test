@@ -1,4 +1,4 @@
-     UID     PID    PPID  TTY        STIME COMMAND
+      UID     PID    PPID  TTY        STIME COMMAND
      Zar     356       1 ?        11:02:53 /usr/bin/mintty
      Zar     475     357 pty0     11:41:05 /usr/bin/ps
      Zar     357     356 pty0     11:02:53 /usr/bin/bash
